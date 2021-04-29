@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Dinvoke_inject\Dinvoke_inject\bin\Release\Dinvoke_inject.exe
+C:\Users\User\source\repos\Dinvoke_inject\Dinvoke_inject\bin\Release\Dinvoke_inject.pdb
+C:\Users\User\source\repos\Dinvoke_inject\Dinvoke_inject\bin\Release\SharpSploit.dll
+C:\Users\User\source\repos\Dinvoke_inject\Dinvoke_inject\bin\Release\System.Management.Automation.dll
+C:\Users\User\source\repos\Dinvoke_inject\Dinvoke_inject\bin\Release\SharpSploit.xml
+C:\Users\User\source\repos\Dinvoke_inject\Dinvoke_inject\obj\Release\Dinvoke_inject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Dinvoke_inject\Dinvoke_inject\obj\Release\Dinvoke_inject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dinvoke_inject\Dinvoke_inject\obj\Release\Dinvoke_inject.csproj.CopyComplete
+C:\Users\User\source\repos\Dinvoke_inject\Dinvoke_inject\obj\Release\Dinvoke_inject.exe
+C:\Users\User\source\repos\Dinvoke_inject\Dinvoke_inject\obj\Release\Dinvoke_inject.pdb

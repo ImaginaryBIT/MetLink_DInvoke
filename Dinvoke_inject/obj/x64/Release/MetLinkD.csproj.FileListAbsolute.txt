@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MetLink_DInvoke\Dinvoke_inject\bin\x64\Release\MetLinkD.exe
+C:\Users\User\source\repos\MetLink_DInvoke\Dinvoke_inject\bin\x64\Release\MetLinkD.pdb
+C:\Users\User\source\repos\MetLink_DInvoke\Dinvoke_inject\bin\x64\Release\SharpSploit.dll
+C:\Users\User\source\repos\MetLink_DInvoke\Dinvoke_inject\bin\x64\Release\System.Management.Automation.dll
+C:\Users\User\source\repos\MetLink_DInvoke\Dinvoke_inject\bin\x64\Release\SharpSploit.xml
+C:\Users\User\source\repos\MetLink_DInvoke\Dinvoke_inject\obj\x64\Release\MetLinkD.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MetLink_DInvoke\Dinvoke_inject\obj\x64\Release\MetLinkD.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MetLink_DInvoke\Dinvoke_inject\obj\x64\Release\MetLinkD.csproj.CopyComplete
+C:\Users\User\source\repos\MetLink_DInvoke\Dinvoke_inject\obj\x64\Release\MetLinkD.exe
+C:\Users\User\source\repos\MetLink_DInvoke\Dinvoke_inject\obj\x64\Release\MetLinkD.pdb
